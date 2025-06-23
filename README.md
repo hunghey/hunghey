@@ -6,7 +6,6 @@ Automation tester
 
 * 🌍  I'm based in Ho Chi Minh city
 * ✉️  You can contact me at [nguyenlephuhung15@gmail.com](mailto:nguyenlephuhung15@gmail.com)
-* 🧠  I'm learning Java
 
 ### Skills
 
